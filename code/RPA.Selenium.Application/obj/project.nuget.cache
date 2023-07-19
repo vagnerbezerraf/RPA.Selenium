@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJpB3owEbL+jYUbtsmL2a24/cPi5rmK9I/09J3MesEcgMGZjNeEAyGzjhbPSA3Q7NKqTkTHIebNv4wjfEQ0rKw==",
+  "success": true,
+  "projectFilePath": "E:\\proj\\Vagner\\RPA.Selenium\\code\\RPA.Selenium.Application\\RPA.Selenium.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vagne\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\vagne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\vagne\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vagne\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\vagne\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\vagne\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
